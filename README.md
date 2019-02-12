@@ -1,1 +1,1 @@
-Copy all Files to /wp-content/plugins/woo-jtl-connector/plugins/
+Copy all files to /wp-content/plugins/woo-jtl-connector/plugins/
